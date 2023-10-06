@@ -2,6 +2,10 @@
 
 Tool for modifying Hiby R3 Pro firmware
 
+## Download Firmware
+
+You can download Hiby R3 Pro firmware from [here](https://store.hiby.com/apps/help-center), or use provided firmware (update.upt) which is firmware version 2.2.
+
 ## Unpack Firmware
 
 Double click on `unpack.bat`
